@@ -6,11 +6,12 @@ Cloud Storage 2022 libraries for the corresponding edition are required to run t
 
 ## Reference Documentation
 * [Java Edition](https://cdn.nsoftware.com/help/ESH/java/)
-* [Javascript Edition](https://cdn.nsoftware.com/help/ESH/js/)
 * [.NET Edition](https://cdn.nsoftware.com/help/ESH/cs/)
+* [JavaScript Edition](https://cdn.nsoftware.com/help/ESH/js/)
 * [Python Edition](https://cdn.nsoftware.com/help/ESH/py/)
 * [PHP Edition](https://cdn.nsoftware.com/help/ESH/php/)
 * [C++ Edition](https://cdn.nsoftware.com/help/ESH/cpp/)
+* [Delphi Edition](https://cdn.nsoftware.com/help/ESH/dlp/)
 * [macOS Edition](https://cdn.nsoftware.com/help/ESH/mac/)
 * [iOS Edition](https://cdn.nsoftware.com/help/ESH/mac/)
 
